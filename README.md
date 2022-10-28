@@ -1,4 +1,4 @@
 # Mygit
-git add
-git commit - m " "
+git add <br>
+git commit - m " " <br>
 git push
